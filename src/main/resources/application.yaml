@@ -4,3 +4,4 @@ ktor:
             - com.todo.ApplicationKt.module
     deployment:
         port: 8080
+    development: true
